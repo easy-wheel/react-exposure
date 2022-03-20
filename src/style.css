@@ -1,0 +1,7 @@
+[data-exposure-tracker-action] {
+  outline: solid 2px blue;
+}
+
+[data-exposure-tracker-action][data-exposure-tracker-exposed] {
+  outline: solid 2px green;
+}
